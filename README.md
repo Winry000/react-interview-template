@@ -1,2 +1,2 @@
 # react-interview-template
-quick setup for running react project
+quick setup for running react-redux project
